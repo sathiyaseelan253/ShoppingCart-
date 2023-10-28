@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ShoppingCart.services.CoupenAPI.props" />
+</Project>
